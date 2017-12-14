@@ -1,3 +1,7 @@
+Considering cumbersome process of merging Data set and Data Cleaning, 
+we disclose all realted Data Cleaning prior to man Data Analysis process presented in Jupytor Notebook in this file as reference.
+All data used in the Analysis process were extracted from these method.
+
 ----------------------------------------------------------------------------------------------------------------------------------
 ######## Concat All Compaines ########
 
